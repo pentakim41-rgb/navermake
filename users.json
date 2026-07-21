@@ -5,6 +5,12 @@
       "salt": "0e32293051310f42c8fb6b98b89bd3c4",
       "role": "admin",
       "created_at": "2026-07-21 23:44:00"
+    },
+    "penta": {
+      "hash": "88528ede7b940206103c0f7fe29403b7b9b61d874ecad1db8503b7da2cde6e1a",
+      "salt": "8c3aecf1d28f0c08c97ac04e490fa094",
+      "role": "admin",
+      "created_at": "2026-07-22 00:04:51"
     }
   }
 }
