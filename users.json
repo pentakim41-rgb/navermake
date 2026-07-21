@@ -1,0 +1,10 @@
+{
+  "users": {
+    "admin": {
+      "hash": "67f5b3912e15bcf49471cda363c36a7093f08475fa771be3b6bad4766edd9e33",
+      "salt": "0e32293051310f42c8fb6b98b89bd3c4",
+      "role": "admin",
+      "created_at": "2026-07-21 23:44:00"
+    }
+  }
+}
