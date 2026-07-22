@@ -11,13 +11,6 @@
       "salt": "8c3aecf1d28f0c08c97ac04e490fa094",
       "role": "admin",
       "created_at": "2026-07-22 00:04:51"
-    },
-    "tonic": {
-      "hash": "240cf56d6d76be66d165f31abe5fbe4a83879b9c5a0a5fb4b13ad538689e13f3",
-      "salt": "ce2acb8e29ba923f74c56d108fe983a5",
-      "role": "user",
-      "created_at": "2026-07-22 00:30:03",
-      "memo": "가나다ㅏㄹ라라라라라라라라라라랄라라라라라라라라라라ㅏㅏㄷ로"
     }
   }
 }
