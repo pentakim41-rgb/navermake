@@ -60,6 +60,13 @@
       "role": "user",
       "created_at": "2026-08-12 22:15:50",
       "memo": ""
+    },
+    "g": {
+      "hash": "102fede23cbbdac94dce564affd0487c30ea67539c3878875aae91c9c9936c03",
+      "salt": "2a2dcc5e1d0f1cb0de47f6ce74cce0eb",
+      "role": "user",
+      "created_at": "2026-08-12 22:16:28",
+      "memo": ""
     }
   }
 }
