@@ -67,6 +67,13 @@
       "role": "user",
       "created_at": "2026-08-12 22:16:28",
       "memo": ""
+    },
+    "mounki04": {
+      "hash": "5cec414fed250d9b89418b76a19794e5a07521cfefaddc3bb4f21fb8eef6ba0e",
+      "salt": "c9a105267a744afa4350f245ede2e262",
+      "role": "user",
+      "created_at": "2026-08-15 18:07:38",
+      "memo": ""
     }
   }
 }
