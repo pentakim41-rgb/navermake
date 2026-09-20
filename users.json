@@ -1,8 +1,8 @@
 {
   "users": {
     "admin": {
-      "hash": "86ebca7ac56528854ad00e10a7dfc9b104dc66b0ad1324a0b05c81b200df87ef",
-      "salt": "a9f0abb18d21d0c01d575367bffe2efe",
+      "hash": "7fb14c326cdd337d86eec8cd1e0a70836b95ca1f1d779c05f22b7ffdddade958",
+      "salt": "53262a086fd43711549898a786a733cf",
       "role": "admin",
       "created_at": "2026-07-21 23:44:00"
     },
