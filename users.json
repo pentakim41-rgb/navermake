@@ -77,6 +77,13 @@
       "role": "user",
       "created_at": "2026-08-15 18:07:38",
       "memo": ""
+    },
+    "siu": {
+      "hash": "76d7d9d55b021ea61c6e8ba0951244d64f8dff2e384c170a99af9d6bc7770619",
+      "salt": "6b9ab6047a71bab9908714088c0ad00c",
+      "role": "user",
+      "created_at": "2026-09-21 20:37:54",
+      "memo": "모싯잎송편"
     }
   }
 }
