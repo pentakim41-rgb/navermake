@@ -17,7 +17,7 @@
     "tonic": {
       "hash": "e48a03da1b0640b6807ec8f8a0b6e8bca1250e96647f238e55d10408e07315c0",
       "salt": "9bd40b46310ee0dd366735e7867fefba",
-      "role": "user",
+      "role": "admin",
       "created_at": "2026-07-23 01:03:40",
       "memo": "",
       "password_changed_at": "2026-09-20 22:11:33"
