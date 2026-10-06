@@ -79,11 +79,12 @@
       "memo": ""
     },
     "siu": {
-      "hash": "76d7d9d55b021ea61c6e8ba0951244d64f8dff2e384c170a99af9d6bc7770619",
-      "salt": "6b9ab6047a71bab9908714088c0ad00c",
+      "hash": "34eb4bdae9761a8707f8089e160f6ec002db62e90587acde6ffa69234b7d2c61",
+      "salt": "14544229c8c05f2f849c39a9c8ebfa5c",
       "role": "user",
       "created_at": "2026-09-21 20:37:54",
-      "memo": "모싯잎송편"
+      "memo": "모싯잎송편",
+      "password_changed_at": "2026-10-06 22:09:52"
     }
   }
 }
