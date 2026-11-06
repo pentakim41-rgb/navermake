@@ -85,6 +85,13 @@
       "created_at": "2026-09-21 20:37:54",
       "memo": "모싯잎송편",
       "password_changed_at": "2026-10-06 22:09:52"
+    },
+    "admin1": {
+      "hash": "841c6b90d474e11892349c287b0d521fa4d169cb60ef561d9db86d4d6f9f4a61",
+      "salt": "1a187bee7cc452bfba1af3863ee9df0b",
+      "role": "admin",
+      "created_at": "2026-11-06 11:45:05",
+      "memo": "관리자 추가 계정"
     }
   }
 }
