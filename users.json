@@ -1,11 +1,11 @@
 {
   "users": {
     "admin": {
-      "hash": "2f3994fce9883fc4d7a929ab258e3835c9b59354ac6a6e96783f775500e97976",
-      "salt": "b3da756a67d8e2d553bc87a5a2e45e49",
+      "hash": "d2424961a5a2ded0401576d442c56aa2e833500405483fefde6fd1bc09c00610",
+      "salt": "94487c8a17f1af5b955fa3416c658f90",
       "role": "admin",
       "created_at": "2026-07-21 23:44:00",
-      "password_changed_at": "2026-09-20 22:11:24"
+      "password_changed_at": "2026-11-10 21:42:55"
     },
     "penta": {
       "hash": "8d59bf5d0dc82cb817ae1bfeb8bc5e38acf12a92a137bac56fb820a4a5992a1d",
