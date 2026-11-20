@@ -92,6 +92,13 @@
       "role": "admin",
       "created_at": "2026-11-06 11:45:05",
       "memo": "관리자 추가 계정"
+    },
+    "oraljk": {
+      "hash": "fce7b10fb4b5164ed1e0803b45e6ca00f78a8eb67aa0cebead1f755810fffc89",
+      "salt": "9520188168ce4f2a355cf5e788ede65d",
+      "role": "user",
+      "created_at": "2026-11-21 08:58:44",
+      "memo": ""
     }
   }
 }
